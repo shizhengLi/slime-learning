@@ -218,20 +218,9 @@ A: 可以通过GitHub Issues、社区论坛、邮件列表等方式获得支持�
 - 感谢所有为本项目提供帮助的社区成员
 - 感谢读者的关注和支持
 
-## 📞 联系方式
-
-- **作者**：资深AI工程师
-- **邮箱**：[your-email@example.com]
-- **GitHub**：[https://github.com/your-username](https://github.com/your-username)
-- **知乎**：[你的知乎主页](https://zhihu.com/people/your-id)
-
----
-
 ## 🌟 Star History
 
 如果这个项目对您有帮助，请给个 ⭐️ **Star** 支持一下！
-
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/slime-learning&type=Date)](https://star-history.com/#your-username/slime-learning&Date)
 
 ---
 
